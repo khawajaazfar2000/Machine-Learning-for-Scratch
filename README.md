@@ -1,1 +1,1 @@
-# Machine-Learning-for-Scratch
+# Machine-Learning-from-Scratch
